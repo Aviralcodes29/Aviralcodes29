@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header&text=Hey,%20I'm%20Aviral%20Singh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hey, I'm Aviral Singh 👋</h1>
+<!--<h1 align="center">Hey, I'm Aviral Singh 👋</h1>-->
 
 <h3 align="center">
   B.Tech CSE (AI/ML) Student • Frontend Developer • Full-Stack Learner • AI/ML Explorer
